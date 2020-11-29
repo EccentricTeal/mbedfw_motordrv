@@ -7,11 +7,11 @@
             },
             "includePath": [
                 "/usr/include/**",
-                "./mbed-os/**",
                 "./src/**",
+                "./mbed-os/**",
                 "./mbed-os/targets/TARGET_NXP/TARGET_LPC176X/device/*",
                 "./mbed-os/targets/TARGET_NXP/TARGET_LPC176X/TARGET_MBED_LPC1768/*",
-                "./mbed-os/targets/TARGET_NXP/TARGET_LPC176X/*"
+                "./mbed-os/targets/TARGET_NXP/TARGET_LPC176X/*"                
             ],
             "name": "Mbed",
             "intelliSenseMode": "gcc-arm",
